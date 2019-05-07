@@ -3,7 +3,7 @@
 Datenschutzerklärung
 
 Verantwortlicher im Sinne der DSGVO ist
-Alexander Hinsmann
+BYTEPROM Software Development
 Bleichstraße 1
 35457 Lollar
 Tel: +49 (0) 6406 79 79 672
