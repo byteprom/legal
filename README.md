@@ -7,7 +7,6 @@ BYTEPROM Software Development
 Bleichstraße 1
 35457 Lollar
 Tel: +49 (0) 6406 79 79 672
-Fax: +49 (0) 32 22 40 84 258
 
 Diese Website liegt auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA.
 Personenbezogene Daten werden vom Verantwortlichen selbst durch diese Website nicht erhoben. Insbesondere werden von Hoster Github keinerlei Informationen (erst recht keine IP-Adressen etc. oder Zugriffstatistiken) übermittelt.
